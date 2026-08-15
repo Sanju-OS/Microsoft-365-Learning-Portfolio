@@ -66,16 +66,15 @@ Understanding these dependencies helps identify whether an issue is related to:
 
 ## Documentation
 
-| Topic                       | Documentation                                             |
-| --------------------------- | --------------------------------------------------------- |
-| Microsoft 365               | [What is Microsoft 365](./What-is-Microsoft-365.md)       |
-| Office 365 vs Microsoft 365 | [Comparison](./Microsoft-365-vs-Office-365.md)            |
-| Architecture                | [Architecture](./Microsoft-365-Architecture.md)           |
-| Services                    | [Services](./Microsoft-365-Services.md)                   |
-| Admin Center                | [Admin Center](./Microsoft-365-Admin-Center.md)           |
-| Tenant                      | [Tenant](./Microsoft-365-Tenant.md)                       |
-| Domains                     | [Domains](./Domains.md)                                   |
-| Users & Groups              | [Users, Groups & Licenses](./Users-Groups-Licenses.md)    |
-| Licensing                   | [Licensing](./Licensing.md)                               |
-| Subscriptions               | [Subscriptions](./Subscriptions.md)                       |
-| Support Scenarios           | [Common Support Scenarios](./Common-Support-Scenarios.md) |
+| #  | Topic                       | Documentation                                                            |
+| -- | --------------------------- | ------------------------------------------------------------------------ |
+| 01 | What is Microsoft 365?      | [01-What-is-Microsoft-365.md](./01-What-is-Microsoft-365.md)             |
+| 02 | Microsoft 365 vs Office 365 | [02-Microsoft-365-vs-Office-365.md](./02-Microsoft-365-vs-Office-365.md) |
+| 03 | Microsoft 365 Architecture  | [03-Microsoft-365-Architecture.md](./03-Microsoft-365-Architecture.md)   |
+| 04 | Microsoft 365 Services      | [04-Microsoft-365-Services.md](./04-Microsoft-365-Services.md)           |
+| 05 | Microsoft 365 Tenant        | [05-Microsoft-365-Tenant.md](./05-Microsoft-365-Tenant.md)               |
+| 06 | Microsoft 365 Admin Center  | [06-Microsoft-365-Admin-Center.md](./06-Microsoft-365-Admin-Center.md)   |
+| 07 | Domains and DNS             | [07-Domains.md](./07-Domains.md)                                         |
+| 08 | Users, Groups and Licenses  | [08-Users-Groups-Licenses.md](./08-Users-Groups-Licenses.md)             |
+| 09 | Licensing and Subscriptions | [09-Licensing-and-Subscriptions.md](./09-Licensing-and-Subscriptions.md) |
+| 10 | Common Support Scenarios    | [11-Common-Support-Scenarios.md](./11-Common-Support-Scenarios.md)       |
